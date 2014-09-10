@@ -8,6 +8,8 @@ Only for C/C++ submissions.
 How to install:
 ====================
 
+Extract the downloaded .zip and rename the directory as "code-kick-starter".
+
 1.Copy "code-kick-starter" folder to your home directory.
 2.Enter folder "code-kick-starter".
 3.Install using: ./install
