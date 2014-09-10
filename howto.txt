@@ -1,0 +1,27 @@
+
+
+
+
+Runs only on unix/linux.
+Only for C/C++ submissions.
+
+How to install:
+====================
+
+1.Copy "code-kick-starter" folder to your home directory.
+2.Enter folder "code-kick-starter".
+3.Install using: ./install
+4.add following to PATH variable: (your home directory)/code-kick-starter/bin/
+eg: home/user/code-kick-starter/bin/.
+5.Installation Complete!
+6.Use as: code <filename>
+eg: code demo.c
+7.Change default editor to open file, by going to "Config/application_kick_starter.txt" inside the folder.
+Default editor is vi. Change it by replacing vi with the name of your desired editor's executable file name.
+eg: codeblocks
+eg: gedit
+
+
+Thank you!
+In case of problems, mail: pc.mayank@gmail.com
+

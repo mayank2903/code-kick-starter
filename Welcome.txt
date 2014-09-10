@@ -1,0 +1,45 @@
+
+
+	+===========================================+
+		WELCOME TO CODE-KICK-STARTER!
+	+===========================================+
+
+
+About the Creator:
+===========================
+
+Name: 		 		MAYANK BHURA
+Contact(E-mail): 		pc.mayank@gmail.com
+Date of Completion of Project:  10th August, 2014.
+Institute: 			National Institute of Technology Karnataka, India.
+
+
+
+About the Program!
+======================
+
+Title:		 Code-Kick-Starter
+Language Used: 	 C++
+Aim of Project:	 Originally created with an aim of doing FASTER CODE SUBMISSIONS in C/C++, for ONLINE PROGRAMMING COMPETITIONS.
+
+Features:	 (1) Automatically includes user-modifiable code template into a C/C++ file, subject to file extension.
+		 
+	 	 (2) Detects beforehand on whether the specified filename is already existent, in either of ".c" or ".cpp" extensions, if not 			     specified otherwise. If file exists, it simply opens it. Else a new file is created with the user-defined code template.
+
+	         (3) Automatically opens specified file (whether new or already existent) using user-modifiable Editor/IDE.
+		
+	         (4) Default file extension for unspecified file types is ".cpp" .
+		     Eg: just typing "code filename" will create "filename.cpp".
+
+		 (5) Maintains a log file containing a Timestamp along with specified file name for each usage of this program, that acts as a 			     reference. Also maintains count of number of times the program is used.
+		
+	         (6) Bug-Free code. :)
+
+
+	IF YOU HAVEN'T ALREADY, PLEASE READ THE "howto.txt" FILE FOR INSTRUCTIONS ON USAGE.
+	IN CASE OF ANY QUERIES OR PROBLEMS ENCOUNTERED, PLEASE FEEL FREE TO MAIL ME AT pc.mayank@gmail.com. :)
+
+
+	THANK YOU FOR USING CODE-KICK-STARTER!!
+	
+	ENJOY!!
